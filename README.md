@@ -156,4 +156,4 @@ smart-organizer/
 
 ## 📄 Licencia
 
-Este proyecto está disponible bajo la licencia MIT.
+Este proyecto está disponible bajo la licencia MIT. Consultá el archivo [`LICENSE`](./LICENSE) para más detalles.
